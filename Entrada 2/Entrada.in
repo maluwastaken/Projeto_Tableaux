@@ -1,0 +1,1001 @@
+1000
+(F > (~(D > C))) e satisfativel?
+(((D > D) & (D > C)) v ((~A) v (D v A))) e insatisfativel?
+H e refutavel?
+(((B > A) v M) & ((~C) > (C v C))) e tautologia?
+(((C > A) > C) & F) e satisfativel?
+(((~C) v (C > A)) v N) e satisfativel?
+((~(~B)) > ((C > C) & (D & B))) e refutavel?
+((~(C > A)) v ((~D) > (B v D))) e insatisfativel?
+(~((C > B) v (D > C))) e tautologia?
+((Y > (B & D)) v (I & (A v B))) e insatisfativel?
+((~G) & O) e satisfativel?
+(((D & A) > (C > A)) v K) e refutavel?
+((~(~A)) v ((B & D) & L)) e consequencia logica de {(~((C > A) > (C & C))), (~(~B)), (((A & D) v (~D)) > (K > H)), (~K)}?
+Y e tautologia?
+J e refutavel?
+((~(D & A)) & ((~C) & (D > D))) e consequencia logica de {(X > V), (J > ((D > B) > (~C))), (~(~(~B))), (~I), (((C v C) > (C & A)) v (~(B v B)))}?
+(C v G) e tautologia?
+(((~C) v (A > A)) > ((A v B) & C)) e tautologia?
+((~(C > C)) & ((D v A) v N)) e consequencia logica de {((~S) > M)}?
+((~Q) & W) e satisfativel?
+(T v (~(D v C))) e refutavel?
+(~((A v C) v (A v C))) e insatisfativel?
+(((A & B) > (B & A)) v ((~C) > (~B))) e refutavel?
+(((A & D) & (~A)) & (C v (~A))) e refutavel?
+(((C > C) > (A & A)) & (~I)) e satisfativel?
+(W v ((C v A) v (A & C))) e consequencia logica de {Q}?
+(Y & (~(D > C))) e satisfativel?
+(~(P v (~B))) e insatisfativel?
+((J > K) v Y) e tautologia?
+((~F) > (Q > M)) e tautologia?
+(((~D) > (D v B)) v C) e consequencia logica de {(((C v A) v (~D)) v ((~A) > (~D))), (((A v A) > (~C)) v (~(~B))), ((~(~A)) v V)}?
+(P & (~(A > B))) e insatisfativel?
+N e refutavel?
+(S & (~(D & A))) e refutavel?
+E e satisfativel?
+(~(V & J)) e satisfativel?
+(((A v A) & P) > R) e tautologia?
+((~(B > C)) > (~Q)) e tautologia?
+D e satisfativel?
+Q e tautologia?
+(((D & A) & (~D)) v ((B > D) > (~D))) e refutavel?
+G e refutavel?
+((X v (C v B)) & (~(B v A))) e refutavel?
+(~((~B) & (D v B))) e tautologia?
+(((C v B) & (B v C)) v (~T)) e satisfativel?
+(~((~A) & (B > C))) e refutavel?
+(~((D > D) > (C > A))) e refutavel?
+(~(~(~D))) e insatisfativel?
+(((C & D) v G) > ((A v B) v (C v A))) e insatisfativel?
+S e consequencia logica de {(((B & C) & L) & ((D & D) & (~B))), (((A v A) & (D & D)) > ((~C) & (B v D))), ((~(A > D)) & K), (((~A) > (D v B)) & E), ((V > (A v C)) & ((D > B) & (C v C)))}?
+S e satisfativel?
+F e tautologia?
+(~F) e refutavel?
+((~J) v ((D > A) > (D > D))) e insatisfativel?
+(~T) e insatisfativel?
+P e insatisfativel?
+(((D & A) > (~A)) > ((C > B) & (A & A))) e refutavel?
+((A & L) > ((~C) > V)) e insatisfativel?
+(((~D) & S) & (L > (~C))) e refutavel?
+(~(~(~C))) e satisfativel?
+G e insatisfativel?
+H e satisfativel?
+(((B > B) & (B > B)) > (~(C > D))) e consequencia logica de {(~((A & C) & (C v A)))}?
+(~(C & (~A))) e insatisfativel?
+J e satisfativel?
+(~((D & D) & G)) e insatisfativel?
+(~B) e satisfativel?
+(~V) e insatisfativel?
+(((C & B) v (A > B)) > D) e tautologia?
+K e refutavel?
+(((D v C) > (A > A)) & (V > (B v A))) e insatisfativel?
+(W & ((B & D) v (B > A))) e refutavel?
+((E & Y) & ((B > D) > (~A))) e consequencia logica de {((~(C & B)) > H), ((V v W) v ((~B) > (C > B))), (((A v B) > (A > C)) & ((A & C) v (~B))), P}?
+(~(D v (C v A))) e refutavel?
+(((B & C) & (A > D)) v ((D v A) v (A & C))) e insatisfativel?
+((~(~C)) > W) e satisfativel?
+(F > ((A > A) v (A v D))) e insatisfativel?
+(E v (D v (C v D))) e consequencia logica de {(((~B) & B) v S), ((~(A > B)) > G)}?
+(~(~(D > A))) e insatisfativel?
+(((D > C) > (D > A)) v Y) e satisfativel?
+(~V) e consequencia logica de {(((B v A) v P) & A), N, N, (((~B) v K) v ((~B) > (~B))), (~M)}?
+(((D > A) v (D v C)) & ((C v B) & (B v D))) e satisfativel?
+(U > I) e consequencia logica de {F}?
+(((~C) > (D & B)) > (M > (~B))) e tautologia?
+(((C > D) & C) v (M v (B & C))) e refutavel?
+(((~B) & (A & B)) > (R > (A > B))) e tautologia?
+H e satisfativel?
+((C > (~C)) > (C & (B v C))) e refutavel?
+(((~B) v (C > A)) & ((A > D) & (~B))) e insatisfativel?
+(((~D) > (C v D)) > ((A v A) & (~B))) e satisfativel?
+(B & ((~A) v (A v A))) e refutavel?
+(V & ((A > C) > (~C))) e insatisfativel?
+((~(C & A)) v ((D > D) & (C v D))) e insatisfativel?
+((~(~D)) & ((B & A) v (A v B))) e satisfativel?
+(~((A & D) > (~B))) e consequencia logica de {(((C v C) v (C > C)) > ((C > B) > (C & A))), M, I}?
+(((~C) & (A v A)) > (~(A > D))) e refutavel?
+((U v (B > A)) > G) e insatisfativel?
+C e tautologia?
+(((~A) > (C > A)) v V) e satisfativel?
+((~V) & M) e insatisfativel?
+L e insatisfativel?
+(~N) e consequencia logica de {(((C > B) v B) & ((~B) > (A v C)))}?
+((~(C > B)) v ((A & B) & (A v C))) e tautologia?
+(((B & D) & (~A)) > ((B > C) > (~A))) e consequencia logica de {(~((B & A) & (A > B))), (~(~(D > B))), T, (((~C) v (~D)) & H)}?
+(~(D > (B > C))) e insatisfativel?
+((~(~A)) & D) e refutavel?
+(((B v C) > (C > D)) v (~(~C))) e tautologia?
+(((A & D) > (C v D)) > (~(B v D))) e consequencia logica de {((~(B v C)) > V), (~T), (((C > B) > (D v A)) v D)}?
+((~(~C)) > ((B > A) > (D > D))) e satisfativel?
+(T v O) e consequencia logica de {(((C > C) > (C > D)) > (S v (A > B))), (((~A) & (~A)) v ((~A) > (A v D))), ((~(D & A)) v F), (~(~(~B)))}?
+(~X) e satisfativel?
+C e refutavel?
+U e insatisfativel?
+((~(B v D)) > (~(~C))) e insatisfativel?
+(((~D) > (C > A)) v ((C v B) > (B > B))) e insatisfativel?
+(((C & C) v (~C)) > ((A > D) > (B > C))) e insatisfativel?
+V e insatisfativel?
+(~(~(A > D))) e insatisfativel?
+(~(~(B > C))) e consequencia logica de {(((~C) > (A v B)) & A), ((D & (B > D)) v ((D v A) > (B v C))), (((~D) v (A > A)) v (~(C v A))), (~T), ((~(C v A)) & Q)}?
+(((D v C) v (~C)) > ((A & D) v (B > D))) e insatisfativel?
+(~V) e refutavel?
+T e satisfativel?
+(~((C > A) v (B > D))) e insatisfativel?
+(E > (~(A v C))) e satisfativel?
+(~((C > A) v (~C))) e satisfativel?
+(((A v D) & (~C)) v ((D > D) v U)) e insatisfativel?
+(~(~(B v B))) e refutavel?
+(~((D > C) > (~D))) e refutavel?
+(~((D & B) v (B > A))) e insatisfativel?
+(((B & B) & (B & B)) & (~(~B))) e consequencia logica de {((~(D & B)) v (B > (C v A))), (L > ((~A) v (B & D))), C, (((B > A) > R) > ((~C) v (C v D)))}?
+(~((~B) > (B & C))) e refutavel?
+((D > G) > (~(B & A))) e insatisfativel?
+C e refutavel?
+P e satisfativel?
+O e insatisfativel?
+I e tautologia?
+((~(B v A)) v W) e satisfativel?
+(~V) e tautologia?
+(((C & B) > (C v C)) & ((D v B) & (D > D))) e refutavel?
+(~(~(~C))) e tautologia?
+((~(D & C)) & ((A & D) & (~C))) e satisfativel?
+P e refutavel?
+(((~A) v (~A)) v ((A & A) v (B & B))) e tautologia?
+(~((B v C) & O)) e consequencia logica de {((K & (C > B)) > B), (((B > B) & (B > C)) & ((D & B) & (C v B))), (~(A & (B > B))), F}?
+(((C & A) v (C & B)) > (F & (~A))) e satisfativel?
+((B > (~B)) > ((D > C) > (A > A))) e tautologia?
+(~(~T)) e insatisfativel?
+X e refutavel?
+((S v (C v A)) & ((D > B) > (B & A))) e refutavel?
+(~(~(D v C))) e consequencia logica de {(((D > A) & (~B)) v (~(~B))), (~((B > C) > R)), ((~I) > ((B > D) v (~D))), (((C v B) > (~C)) & ((~A) v (B & D))), S}?
+(((C v C) & (C > A)) > ((~B) & (~C))) e refutavel?
+(~((B > C) & (D & D))) e refutavel?
+(J v (~(A > B))) e refutavel?
+(((A v C) v (D > B)) > ((D v D) v W)) e satisfativel?
+I e refutavel?
+M e consequencia logica de {(~N), (((~B) v G) > ((~B) v (~A)))}?
+M e consequencia logica de {((~(C & A)) > Y), L, (~(T v X))}?
+H e insatisfativel?
+(G > W) e refutavel?
+(((A & B) & (C v A)) & V) e insatisfativel?
+M e tautologia?
+(((D > B) & (~B)) > E) e satisfativel?
+(((~B) v (C & B)) & ((~A) v X)) e refutavel?
+((P & (C > C)) & (N & (B v B))) e consequencia logica de {(((~D) v (~B)) v ((A & A) v T)), O, (((C > D) > (~D)) > (~(C v C))), (L & ((A v C) v (~C))), (~(~(B & D)))}?
+L e satisfativel?
+((K & (A & A)) > ((B & C) & (A & A))) e consequencia logica de {(N & ((D & C) > (~A)))}?
+(R v U) e insatisfativel?
+((D & (~C)) & A) e satisfativel?
+(~((C > D) & B)) e refutavel?
+(~R) e tautologia?
+(((C v A) > (~C)) > S) e refutavel?
+(((B > B) > X) > ((A > C) & (C v A))) e refutavel?
+((~(C > A)) > ((D > D) > (C v C))) e insatisfativel?
+(((B > B) & U) v ((A & B) & (D > A))) e refutavel?
+(((B & A) > I) & ((B & D) & (D v C))) e satisfativel?
+A e tautologia?
+(((~D) & L) & ((B & D) & (~D))) e insatisfativel?
+(~((~C) v (C v B))) e satisfativel?
+(((C & B) v (B > A)) v K) e tautologia?
+(J v ((~C) v (C v B))) e consequencia logica de {(R & ((~B) & (~D))), ((I v (A & D)) v ((~A) & (A > B)))}?
+(M & Q) e consequencia logica de {(K > U), ((B > (A v D)) v ((~C) & (D & D))), ((O > (B v A)) & ((B & D) > (D & A))), ((~(C v C)) & (P v (C & A)))}?
+D e refutavel?
+(((D > A) & (A > B)) > ((D & A) & Y)) e tautologia?
+((~(C v A)) v M) e consequencia logica de {(R & ((C & B) & (~C)))}?
+(((A & A) v (~D)) > ((C > D) v (~A))) e consequencia logica de {L, ((~(A v B)) & ((A v C) > (B & D))), (((C > B) & O) & ((D > D) > (C > A))), (~((B v A) v (~D))), A}?
+(~(R & (~A))) e refutavel?
+(((~A) > (~A)) > ((B v C) > (~B))) e satisfativel?
+L e tautologia?
+(N > (~(D & B))) e refutavel?
+(((D & A) & (B v B)) & N) e refutavel?
+(~((B > C) & (A & C))) e insatisfativel?
+((A & N) v ((A v D) > (D & A))) e insatisfativel?
+(((B > A) v (D & D)) v ((B & D) > (C v B))) e consequencia logica de {(((D v B) v (B v D)) & ((B & D) v (D v C)))}?
+((~(D > A)) > ((D > D) > (C v D))) e consequencia logica de {M, X, ((T & (C > B)) & ((D v D) > (A > D))), A, ((J & (A > D)) & (~(C v C)))}?
+(T > (A & (~B))) e tautologia?
+(~((~D) v (D & D))) e refutavel?
+(((B v A) v (~A)) & ((B & C) > Y)) e tautologia?
+(G & (~U)) e tautologia?
+(G v (J > (C v B))) e consequencia logica de {((~(C & A)) & ((~A) > C)), (((A & D) & (D & D)) & (~(B & A))), (((B > B) > (~A)) v ((C v D) > (~D))), (((D v B) & (C > B)) v (~(~D)))}?
+((~(B v A)) & ((A v B) & (C & B))) e refutavel?
+(B v ((A & D) > J)) e satisfativel?
+(((D > A) > Q) > ((D v A) > (~B))) e insatisfativel?
+(((B > A) v (C & D)) > A) e consequencia logica de {(((C & C) v (D > A)) > (W > (~C))), (((B & C) v (C v A)) > ((D v C) > (D > A))), (Y > (~J)), (((~A) & O) v ((~C) > (D > C))), (((~C) > (~D)) & ((D v A) > (C & A)))}?
+((~(~D)) & (~(A > C))) e tautologia?
+(~((~B) v (A & A))) e consequencia logica de {(S > (~P)), (~((B & D) > (A v B))), (((D & D) & (~C)) > ((C & A) & (D & C)))}?
+(U > ((B > A) & (D > D))) e consequencia logica de {(O & ((A v B) v (D > A))), ((B v X) & ((~A) & (C > C))), (((D > A) > H) > ((C v C) v (~D)))}?
+C e consequencia logica de {(~C), (~((~B) v (A > C))), ((C & (B & C)) > ((B > D) & (C & D)))}?
+((A & (~A)) > ((B & C) v (A > C))) e tautologia?
+(((C v A) v N) v ((C & B) & T)) e tautologia?
+W e insatisfativel?
+((K > (D > D)) & ((C > D) > B)) e satisfativel?
+(U > ((A v D) > (A > D))) e tautologia?
+(U > ((D v B) v (~A))) e insatisfativel?
+((~(~A)) & (~(A > C))) e satisfativel?
+(((C v C) > (~C)) v ((A & D) & E)) e refutavel?
+(~(~(B > C))) e insatisfativel?
+((A > Y) & ((C > C) v (~A))) e insatisfativel?
+((H v (A > D)) & ((A > D) > (B v B))) e satisfativel?
+((~(B & A)) v (~(~A))) e consequencia logica de {(((~D) > O) v (M > (A v C))), ((X v R) & (J v (~B))), (((D > B) > (A & A)) & E)}?
+O e refutavel?
+((~(D > B)) & ((~C) & (B > C))) e refutavel?
+((~(D v B)) v ((B > C) & U)) e consequencia logica de {((K > (~D)) > (I & X)), ((V > (~C)) & (P & (A & A))), ((~(A v A)) > T)}?
+(((A > C) v (D & C)) v U) e consequencia logica de {((L > (A > B)) v ((A & B) v (A & C))), ((G v X) v ((D v B) v (D & D))), (M > (P v (B > D))), O}?
+(((~D) & (B > D)) > (M & (B & C))) e refutavel?
+P e tautologia?
+(~((A v A) > (B v B))) e consequencia logica de {(~((~D) & H)), ((~(B v B)) > ((~B) & (B > B))), (~(~(~A))), (B & U), (((~A) v (C & A)) > ((B & A) & (C v A)))}?
+((U v E) > ((D v D) & S)) e tautologia?
+(~((D > D) > (C > A))) e insatisfativel?
+(~(~(A v A))) e insatisfativel?
+((~P) & ((D & D) > (B > A))) e satisfativel?
+(~((D v D) & (B > B))) e insatisfativel?
+(~((B > C) & (C & A))) e tautologia?
+((~(~A)) > (S v (~C))) e insatisfativel?
+(H & (U & (A & C))) e consequencia logica de {(~((A v D) v (D > C))), (~(~(~D))), ((U & (~C)) > (W > (D & B))), ((C > (D & C)) > (I & (B v A)))}?
+J e insatisfativel?
+(((A & D) > (C > D)) & (R & (~C))) e satisfativel?
+H e insatisfativel?
+(R & (U & (C & A))) e satisfativel?
+(T v ((A > D) v (B & D))) e satisfativel?
+(~((C & A) v (~C))) e consequencia logica de {((~(D & D)) v (H v (B > C))), (~((D v A) v (C v B))), (~((A & D) v (~D)))}?
+((~(A > C)) v (L > E)) e refutavel?
+(~(~(B v D))) e insatisfativel?
+(~(W v (~C))) e satisfativel?
+Q e satisfativel?
+X e tautologia?
+Q e consequencia logica de {(((D v C) > (A v A)) v (~(A v B))), E, (((A > D) > E) & (F > (~A))), (((~B) > (B & C)) v (~(B & B)))}?
+(((~A) & (C & C)) v ((~A) > (B & A))) e tautologia?
+A e tautologia?
+(P > ((A > A) > (A & C))) e consequencia logica de {((A & (D & A)) > L)}?
+(((C v C) & W) v ((~A) > (A > C))) e refutavel?
+B e insatisfativel?
+(((B & C) & (D & D)) & ((A > A) > (C & C))) e refutavel?
+((~(~D)) > ((C v C) & (~C))) e refutavel?
+((~N) v ((~B) > G)) e insatisfativel?
+(P v (~X)) e consequencia logica de {(~N), H, ((A > (C & A)) v ((A > B) > X))}?
+((~(~A)) v B) e tautologia?
+(((C & C) & (~C)) > ((C > A) v (C v B))) e tautologia?
+J e tautologia?
+(((A & C) v (C > A)) & (~(~D))) e tautologia?
+((G & (D > B)) > L) e tautologia?
+(((C & A) & (C > C)) > (~M)) e insatisfativel?
+(~F) e tautologia?
+(((A v D) & Q) v U) e refutavel?
+(~((A v D) > T)) e tautologia?
+(((C v D) > (D > D)) > ((~B) > (D > D))) e satisfativel?
+(~L) e satisfativel?
+(((~D) > (D v B)) > ((C > B) v (D > B))) e insatisfativel?
+((S v T) v ((D & A) > (C & D))) e consequencia logica de {(~(~(~A))), W}?
+(((D & D) v (D > A)) v ((~A) & (~B))) e consequencia logica de {X, (~(~(A > A))), (~(~A)), (~(W v (B & A))), (~(~(C v A)))}?
+(U > Q) e satisfativel?
+(((D > A) v (D & B)) > (~(A > D))) e refutavel?
+(S > U) e consequencia logica de {(~(~(B > C)))}?
+(~((A & D) > (~B))) e consequencia logica de {W}?
+B e refutavel?
+(((B v B) > (D > D)) v ((B v C) > (~D))) e insatisfativel?
+O e satisfativel?
+E e consequencia logica de {((E v (C v C)) > ((A & D) > (D > B))), (((~B) > (D > C)) v (S v G))}?
+(~(~(~C))) e consequencia logica de {O, ((~(C & C)) > ((~A) v (A > B)))}?
+(~(M & J)) e insatisfativel?
+(((D v D) v (B v C)) v ((D v C) & (~C))) e tautologia?
+(((~C) > A) v ((A & A) > (~D))) e insatisfativel?
+O e tautologia?
+(((A & B) v (A > A)) v ((C > C) v (A v A))) e refutavel?
+(((D & C) > R) v A) e refutavel?
+((S > R) v Q) e tautologia?
+(((~A) & (C v A)) > ((A > A) v R)) e satisfativel?
+((H > (~D)) & (~(~D))) e refutavel?
+(((B v D) & F) & ((A v B) & I)) e satisfativel?
+((R & S) v ((D v D) > (D v D))) e refutavel?
+C e tautologia?
+(((D v D) v (D & B)) v (~W)) e insatisfativel?
+(~((D > D) v A)) e insatisfativel?
+(~((~C) v (A v A))) e tautologia?
+(((B & C) v (C > C)) > (D v (~B))) e satisfativel?
+(~((~C) v (C & A))) e consequencia logica de {(I > ((A > D) v (A > B))), (((A > C) > (D & D)) v Y)}?
+(~(~W)) e satisfativel?
+(((~D) > J) & (F > (~A))) e satisfativel?
+(~((B & B) & (B v B))) e tautologia?
+K e refutavel?
+((Q v (C > B)) & (~(D v D))) e refutavel?
+(((D & C) v Q) > ((D v B) > (B & A))) e consequencia logica de {(~((C > B) & (~C))), (N v (~(C & D)))}?
+((A v Y) v ((C > A) > (A & A))) e insatisfativel?
+X e insatisfativel?
+(((D & A) > (B > B)) v ((~C) v E)) e consequencia logica de {F, (((B > A) v (~B)) > ((~C) v (D v A)))}?
+(V v ((~A) > (A & B))) e satisfativel?
+(((C > B) > (~B)) v (~(C v A))) e consequencia logica de {(((B & C) > (A & A)) v ((~C) > D))}?
+(((D & C) > (D & A)) > (P & (A v B))) e insatisfativel?
+(~(~(D v D))) e tautologia?
+(K > ((C & C) & (A v D))) e consequencia logica de {(((D & B) & (C & A)) v ((D v B) v W)), (((D & A) v (~A)) v ((A & B) v A)), (~((D & D) > (A v C)))}?
+(((~C) & (~B)) & ((~D) v (~D))) e consequencia logica de {((B > (~B)) v S), ((J & (A v C)) & ((D > C) & (D > D))), (((~B) & (B v B)) v ((C & D) > (B v D))), ((~(B v A)) & ((D v C) & Y)), K}?
+(B > A) e satisfativel?
+(((A > B) & (C & C)) & ((C v D) & (A & A))) e satisfativel?
+U e satisfativel?
+A e refutavel?
+H e insatisfativel?
+(((B > A) & (B > B)) & ((A > D) > (B & D))) e refutavel?
+((~(B v D)) & E) e tautologia?
+(((B & C) & (A v A)) v (U v (A > C))) e insatisfativel?
+(((B & C) > J) v ((~D) > (B > D))) e consequencia logica de {(((D > C) & (~D)) v ((D v A) v (~A))), (((~B) v (~C)) & (B & (D v B))), (((B v D) & (C > A)) & N)}?
+((~(~B)) > (W v (~D))) e refutavel?
+((~(~A)) v ((D > D) > (~B))) e consequencia logica de {(((D & C) > (D & D)) > P)}?
+((~(A > A)) & ((A v C) v (~A))) e insatisfativel?
+(P v I) e consequencia logica de {T, M, (((~D) > (A v A)) v ((D v B) v A)), ((~(~B)) > (~(D > C))), (((B & C) v (~A)) v (~(~C)))}?
+((~(~B)) v N) e tautologia?
+(P v ((~D) & (B > A))) e insatisfativel?
+(((B v A) & (C v A)) v ((D v D) & (A & C))) e consequencia logica de {((~(D & B)) & ((A & A) & U)), (~(M v (~C))), (~(~(C & D))), (~(M > S))}?
+((~(A > D)) v ((C & A) & (B & D))) e satisfativel?
+(Q > (~(~D))) e insatisfativel?
+(E & ((C & B) & (A v B))) e consequencia logica de {(((D > B) v (A v B)) > (~(D > B))), ((~(A & A)) > ((~D) > Q)), (O > C), (((D > B) > (~D)) > ((~A) v B))}?
+(((A v A) v (D & A)) > ((B > B) > (B v D))) e consequencia logica de {(((A & A) > (~D)) v I), J, (((~C) & H) > ((C v B) v Y)), (((B & A) & (B v A)) v (~(D v B)))}?
+S e insatisfativel?
+(((C v D) v (~A)) v D) e refutavel?
+(~((C > A) v (B v B))) e tautologia?
+(~((A & A) v (D & C))) e refutavel?
+(~(V & (A & A))) e satisfativel?
+(~((B > D) > (B & A))) e refutavel?
+Q e satisfativel?
+(R v X) e consequencia logica de {S, B, (~(~(A > A))), (((A > A) v (C > D)) > (~(B & C)))}?
+(V & ((A > C) & (~A))) e satisfativel?
+F e satisfativel?
+(~((A v C) & (C & D))) e consequencia logica de {(~((~A) > (C & A))), (P & ((D & B) > Y)), (((~A) v (~C)) > (~(A > C)))}?
+(C > I) e consequencia logica de {((G > (B & D)) & ((B v D) > C))}?
+(((A v B) v (C > B)) > (~(D > D))) e refutavel?
+(M v (O > (B > D))) e consequencia logica de {(((A > A) > (C > A)) & ((D v D) v (D > C))), X, (~((C & C) v (C v B))), (~((C > C) > (~B)))}?
+((N & (B & C)) & (C v (A > D))) e insatisfativel?
+(((~B) v (A & A)) v (~(D & C))) e satisfativel?
+(C v (~(D v C))) e insatisfativel?
+C e consequencia logica de {(~(C v (C > C))), (((~D) & (D & C)) v V)}?
+((Q & (A > D)) & ((~D) & O)) e refutavel?
+(~O) e insatisfativel?
+(((~C) & (~A)) v B) e refutavel?
+D e tautologia?
+I e refutavel?
+(C & ((A > A) & (B v A))) e insatisfativel?
+(((B & D) & (A v D)) > ((A v B) v (C > D))) e consequencia logica de {(((~D) v B) v (~K)), ((G > A) & ((C v D) v (B v B)))}?
+(((A > B) & (A & C)) v ((~D) v T)) e tautologia?
+(((D & D) v (A > C)) & ((C v D) > (A & B))) e consequencia logica de {((T > (C > A)) & (~K)), X}?
+(~((A & C) v N)) e insatisfativel?
+((~(C & B)) & K) e satisfativel?
+(((C v B) > (A v D)) v ((A & C) v (C & B))) e tautologia?
+(((A > A) v (C > B)) > ((C v A) > (A & C))) e satisfativel?
+(K v O) e satisfativel?
+((L v (A > B)) & ((A > B) > (B & D))) e tautologia?
+(P > (~(D v A))) e refutavel?
+(I & ((~B) > (C > D))) e tautologia?
+((~(D & D)) & (~(D & A))) e satisfativel?
+K e satisfativel?
+(L & ((A v D) & (B & B))) e insatisfativel?
+M e refutavel?
+(~((~C) v (D v B))) e tautologia?
+(~(O v (C > A))) e refutavel?
+(((C & A) & (A v B)) > ((~C) v (~A))) e refutavel?
+U e tautologia?
+((D & (C > A)) v ((D v A) & (B > A))) e insatisfativel?
+G e satisfativel?
+(((A & D) > (~C)) > ((A v C) > M)) e tautologia?
+(~(~(D & B))) e satisfativel?
+(((A & A) & (A & B)) > (~(~D))) e refutavel?
+(K v ((B v C) > (~D))) e insatisfativel?
+(~((C & C) v B)) e satisfativel?
+(O v ((A v B) v H)) e consequencia logica de {((~(A v C)) > B), (((C v A) & (~C)) v L)}?
+G e consequencia logica de {R, ((~G) & ((D > C) v (B & C))), (~((D > A) & (~A))), V, (((~C) > (~A)) > ((~A) v (~A)))}?
+(X v (~(B v D))) e satisfativel?
+(~((C > D) > (C v D))) e satisfativel?
+(((~C) v (D & C)) v (~(B & A))) e insatisfativel?
+(((~C) > (D & C)) & X) e insatisfativel?
+((X v (D v A)) > (E > H)) e insatisfativel?
+T e consequencia logica de {((~K) > ((A & B) v (~B))), (((~D) & (~B)) > (C v (~B)))}?
+(~(H & (C & B))) e consequencia logica de {R, ((I & (B v A)) v ((C & D) v (B v D))), P, (~((A > D) v (B & B))), S}?
+((D & X) > (~(D > D))) e tautologia?
+(~((B & D) > (D & A))) e consequencia logica de {(~(~(~B)))}?
+((~(C v A)) v (~(B v B))) e refutavel?
+(I & (~(A v A))) e insatisfativel?
+(((B & A) & (C & A)) > (B > (C v B))) e tautologia?
+Q e consequencia logica de {((~(B v B)) v ((B > A) > (~A))), (U & ((~B) v (C > B))), (((D > C) & (B & D)) > ((~B) & S)), ((C > (A & D)) > V), ((R v Q) > (~(D & A)))}?
+T e satisfativel?
+((~(A > B)) > (C & R)) e refutavel?
+(((A v B) v (~A)) > ((~C) > O)) e consequencia logica de {(((A v A) v D) v Y), (~(~O)), Q, (((~A) > (A & A)) v T), (((A v C) & (~C)) & (D v (D > D)))}?
+(((D > C) > (B v B)) > G) e refutavel?
+(P & ((~A) & (D > B))) e consequencia logica de {(~(~(A & C))), (((~A) > (C v B)) > ((A v B) > (C v A))), (Q > ((A v B) v (B & C))), (~E)}?
+(V & ((A v A) > (B > A))) e satisfativel?
+((T > (A & D)) > ((A v A) & O)) e tautologia?
+(((C > A) > (C v B)) v (N v (D > A))) e insatisfativel?
+(~(G & F)) e tautologia?
+((~(C > B)) > ((C v D) v (D > C))) e consequencia logica de {(~(~S)), (((A > B) & (~D)) > Y), J, (A > D)}?
+U e tautologia?
+(((A v C) > (C > B)) > ((B & C) > U)) e tautologia?
+(B v (~X)) e insatisfativel?
+(M > ((~D) v D)) e satisfativel?
+((P & (D & D)) v ((~D) > (~D))) e refutavel?
+(((~C) v X) & (~(B > C))) e consequencia logica de {(((D & B) v (B & A)) & (~(D > C))), (W v ((B > C) > (A > C))), (((D v A) > (A > C)) & ((A v A) v V)), ((~(C > D)) > ((B & C) & (B v D)))}?
+(P v ((~D) > N)) e refutavel?
+(((C & C) v (B v A)) & (~(B v C))) e refutavel?
+(Y > ((B & C) > (~D))) e tautologia?
+W e consequencia logica de {(~(~(D & C))), (W & ((~C) > (D & A)))}?
+H e consequencia logica de {(((D > A) & (~C)) & M), R}?
+(((~A) v (C & B)) v ((~B) & (~C))) e consequencia logica de {(((~B) & (D v D)) > (M & (B v D)))}?
+(((B > A) > (D > A)) v N) e consequencia logica de {S}?
+(((D & D) & (~D)) v (~I)) e satisfativel?
+B e consequencia logica de {(~B)}?
+(((A & B) v (~D)) > (G > (D v B))) e consequencia logica de {(H v ((D & D) v (B & C)))}?
+M e satisfativel?
+M e insatisfativel?
+V e satisfativel?
+(~W) e insatisfativel?
+Y e insatisfativel?
+((Q & (C & B)) & (P v (C > C))) e refutavel?
+((~(C v A)) & ((C v D) > (D & B))) e satisfativel?
+((~(~B)) & (~(A & D))) e consequencia logica de {((~(~C)) > ((B & C) v (D > A))), (((C & D) & (D & C)) v ((D > A) > (B & C)))}?
+(~(~(D > B))) e refutavel?
+(~(M & (D v A))) e tautologia?
+(((B > C) & P) > ((B > C) > (D & C))) e tautologia?
+(~H) e insatisfativel?
+(Q & M) e refutavel?
+(~((A & D) > (A > A))) e refutavel?
+(((D v A) v (C & A)) v (K v (B v C))) e refutavel?
+(L & U) e insatisfativel?
+(C v W) e tautologia?
+(~(~(~A))) e insatisfativel?
+(~(C & (B v C))) e tautologia?
+(~(~(B > A))) e tautologia?
+(((B v C) > (D > A)) > ((A v D) > E)) e insatisfativel?
+H e insatisfativel?
+(~(~K)) e refutavel?
+((~(B & D)) v ((B v B) v (~A))) e tautologia?
+(Q & (~I)) e insatisfativel?
+((~(D & D)) > ((~D) > (A & D))) e consequencia logica de {(~(M > E)), (~S), V, ((~(A & A)) > A)}?
+(((B > D) > (~D)) & ((B v D) v (~C))) e insatisfativel?
+N e consequencia logica de {M, B, (~((~A) v (B v D)))}?
+(((B v A) v (C & A)) > ((A v D) v (A > A))) e satisfativel?
+L e insatisfativel?
+(I > ((~D) v (C > A))) e refutavel?
+(R > (O & (~A))) e refutavel?
+(~(T v (~D))) e satisfativel?
+T e satisfativel?
+W e consequencia logica de {D, (G & C)}?
+I e satisfativel?
+P e satisfativel?
+((~(~B)) & (~S)) e insatisfativel?
+((~(~A)) & ((~B) > (B > C))) e refutavel?
+(((D & C) v (~C)) & (A > (C > A))) e satisfativel?
+(~((~D) & (D v D))) e consequencia logica de {((~A) v (~(B v D))), ((F & (D > A)) & (W v (A v C))), (((A & A) > (D & B)) > ((C v B) & (B & D)))}?
+(~((C v B) v (B & B))) e satisfativel?
+(~(~(B & D))) e tautologia?
+(((C v A) & (~C)) & ((~B) & (D v C))) e insatisfativel?
+(~((B v B) v (B v A))) e insatisfativel?
+(~(~F)) e satisfativel?
+(((B v B) > (D v D)) v P) e insatisfativel?
+Y e insatisfativel?
+(Q & ((D > C) > (B > A))) e consequencia logica de {(I > (O v (B & B))), (~((~B) & (C > D))), (~(~(~D))), (((D > C) & P) > (~(D > B))), (~Y)}?
+((~(~C)) > (~(A & D))) e tautologia?
+(B & P) e tautologia?
+(((B v A) > U) > ((D v D) > (~A))) e insatisfativel?
+((~(~C)) & (~(B & D))) e consequencia logica de {((~(D > D)) v ((B > A) & W)), (((~C) > (C v B)) v B)}?
+T e consequencia logica de {(((D & A) v (C > D)) & (~(B & B))), ((~(D > C)) > (U > (~B))), (P v (~(A & B))), S}?
+(~(P v (A v D))) e satisfativel?
+(((B & A) & (B v B)) & D) e satisfativel?
+(((C & A) > B) v U) e tautologia?
+(((C > B) > (~D)) > (D v (~C))) e refutavel?
+(((B & A) > W) > A) e tautologia?
+(((A v D) v I) > ((C & B) & (~C))) e insatisfativel?
+((U & W) & (~R)) e satisfativel?
+(G & O) e tautologia?
+(((~A) & (~A)) v ((D & B) v (~B))) e satisfativel?
+(((D > B) & L) v (F > B)) e refutavel?
+(A & ((B > A) v (C v A))) e refutavel?
+(J > ((D & D) v (D & A))) e insatisfativel?
+(~(~(~C))) e consequencia logica de {(((D > A) & (C v D)) > ((~C) > (B > B))), N, (~((C v B) v (~C)))}?
+(((C v A) v (B v C)) > ((B v D) & (~B))) e refutavel?
+J e tautologia?
+J e satisfativel?
+((~(B > C)) > ((~B) & A)) e consequencia logica de {(((D v C) > (B & B)) & ((D > D) v (C > C)))}?
+N e tautologia?
+(((D & B) v (B > C)) & ((B v D) & L)) e insatisfativel?
+(~((B & D) & (A v A))) e satisfativel?
+(F v (~(A & A))) e refutavel?
+((B > (C v C)) & (~(B v D))) e insatisfativel?
+((~(~C)) v ((C & C) > (D & B))) e satisfativel?
+(H v ((D > B) > (~D))) e consequencia logica de {(~T)}?
+(P v T) e tautologia?
+(A > ((D v B) & (D & B))) e consequencia logica de {(((B > B) > (C > C)) & ((B & C) & (B > C)))}?
+(H & ((C v A) > A)) e insatisfativel?
+(((D > B) v (A & D)) & ((A & C) & (~C))) e satisfativel?
+P e tautologia?
+F e insatisfativel?
+(V v ((A > A) & (D v D))) e refutavel?
+((~(D > D)) > ((C v C) & (B v C))) e tautologia?
+(F > (G v (~B))) e tautologia?
+((U v G) v ((C > D) > (B & B))) e refutavel?
+(((A v D) & (D > D)) > (X > (A & B))) e satisfativel?
+(~(~(A > D))) e tautologia?
+(((~B) & (~C)) & ((B & B) v (~B))) e consequencia logica de {(~B), (~((B v C) v (B & C))), (~Q), (~(A > (~D)))}?
+((~(B > A)) v ((C v B) & (C > D))) e refutavel?
+C e insatisfativel?
+G e refutavel?
+((~T) & (R > (C > B))) e consequencia logica de {(~(~(C v D)))}?
+F e tautologia?
+((~(A v C)) > ((C > C) & X)) e tautologia?
+(~((B & C) v (C > C))) e tautologia?
+(((C v D) v (D > A)) v ((D v D) & (A & B))) e consequencia logica de {(W > (~(C & D))), (W v ((~B) & (D v D))), (((A v D) > (~C)) v ((C v C) > (C > A))), (((~B) & U) & ((~A) & (~B))), (~(~(~D)))}?
+((~(B & A)) > ((~A) v (~B))) e satisfativel?
+P e satisfativel?
+(((B > D) v (~A)) > ((~B) & (A > D))) e tautologia?
+A e consequencia logica de {(((C & C) v G) > U)}?
+(M > ((~B) v (~D))) e tautologia?
+(R & (~(~D))) e tautologia?
+I e satisfativel?
+((~L) & (M & (C v C))) e insatisfativel?
+(~((~C) > M)) e tautologia?
+(((D v C) & (A > B)) v ((C > C) v (A > A))) e refutavel?
+(I & ((D > A) v (A v A))) e satisfativel?
+(~B) e satisfativel?
+(((D v B) v (C > B)) > F) e insatisfativel?
+L e refutavel?
+(~((~C) v I)) e insatisfativel?
+(((D > C) v (~B)) v (~(D & D))) e insatisfativel?
+(Q v L) e insatisfativel?
+((R & (C & D)) & E) e insatisfativel?
+A e tautologia?
+(((B > C) v (C & B)) > (~(B & D))) e consequencia logica de {(~R), (~M), B, (R & ((D v C) v (D > A))), (~((B > D) & (~A)))}?
+(((B & B) v (C v C)) > ((C v A) > (A & B))) e consequencia logica de {(((D & C) & (~C)) v (~(A v A))), (((A > B) v (~B)) & ((A > D) > (B v B))), (~C)}?
+D e tautologia?
+((J & (~B)) v T) e refutavel?
+((O & (A v C)) v ((A v B) v (B & D))) e consequencia logica de {D, K}?
+(((~C) > (C > C)) > U) e insatisfativel?
+O e refutavel?
+(X & Q) e refutavel?
+(((D > C) & E) v D) e consequencia logica de {(((~B) v (C & D)) > ((C & B) v (~C)))}?
+W e consequencia logica de {(R > ((~D) > B)), (~H)}?
+(~((A > A) v N)) e consequencia logica de {(U & (T & (A v D))), ((~I) & (~P))}?
+M e tautologia?
+Q e consequencia logica de {(~(I > (A & D))), (X & (Q & I)), (~N), ((B > (~C)) v ((A > A) v (A > D)))}?
+E e satisfativel?
+(((B v C) v E) v (~(A & D))) e tautologia?
+(~G) e refutavel?
+((E & (A > A)) & (~(~D))) e refutavel?
+(~(~(D v B))) e refutavel?
+(((~A) & B) v (~(D & C))) e consequencia logica de {(((B > D) > (~C)) v ((C & C) & (B & A)))}?
+(~((A > C) v (B & A))) e consequencia logica de {((P > (A v A)) v (~(D v B)))}?
+P e tautologia?
+C e satisfativel?
+((~J) > (~R)) e consequencia logica de {K, (((A & D) > P) & L)}?
+T e refutavel?
+((~W) v ((~C) > (B > C))) e tautologia?
+S e tautologia?
+((~(C & B)) & ((~A) > (B & A))) e consequencia logica de {(((A > D) > (B > D)) & (~C)), O, (((B v C) v (D v A)) & ((C & D) v (~D))), (((A > C) v J) & (~V))}?
+(K & (~A)) e insatisfativel?
+(((A & D) > (~A)) > (~M)) e satisfativel?
+F e refutavel?
+(((B & A) v (A > A)) v ((D & B) & (D & C))) e insatisfativel?
+(((B > A) & D) & R) e satisfativel?
+V e insatisfativel?
+(~((D > C) & (A v D))) e insatisfativel?
+(((~A) > (~B)) > ((A & A) & T)) e refutavel?
+(((D v A) v (B v B)) v ((A > C) & (D & B))) e refutavel?
+((P & (D > A)) & C) e satisfativel?
+((E v (D & D)) & (P > A)) e satisfativel?
+(((D > C) > (B v A)) v ((B > C) v (B v B))) e consequencia logica de {(((C & D) & (A > C)) v D), ((~(~D)) > (J > I)), (W > U)}?
+(~((B v D) > (D > D))) e insatisfativel?
+P e tautologia?
+((~(C & D)) > (~P)) e satisfativel?
+(((~C) > (B > C)) > ((~C) > B)) e satisfativel?
+J e satisfativel?
+(((D > B) & (A > B)) & ((~D) v (B > A))) e insatisfativel?
+(N > ((A > B) > (A > D))) e tautologia?
+(E > (~T)) e consequencia logica de {B, (((D & A) > H) v ((C > A) > (A > D))), K}?
+O e tautologia?
+((~(A > D)) v (~(A > A))) e insatisfativel?
+Y e insatisfativel?
+T e consequencia logica de {(~((B > C) & (C & D))), (~(~(~B)))}?
+(((D > B) > (D & C)) v (~(B > D))) e tautologia?
+(~M) e refutavel?
+((~(A > A)) > ((B > D) & (C & D))) e tautologia?
+(~(~(A v B))) e consequencia logica de {X, T, J, ((~(B > B)) & G), (((A > C) v (D & B)) > ((D & D) & U))}?
+R e tautologia?
+((P > (A v A)) v ((B v A) & (A > D))) e refutavel?
+(W v ((A v A) & (C & C))) e insatisfativel?
+(((B v C) v (C > B)) & ((D > D) > D)) e satisfativel?
+(((D v D) & (C & D)) > ((~D) & (B v D))) e refutavel?
+(~((D & C) > (~D))) e consequencia logica de {H, (((~A) & (C > C)) v (~(~D))), ((~(C > B)) v (~(C v D)))}?
+(((D & A) v (A v B)) v (U v (A & A))) e insatisfativel?
+(L & ((~D) & (~D))) e refutavel?
+C e satisfativel?
+H e tautologia?
+(~(~(~D))) e tautologia?
+(~(K & (B & C))) e consequencia logica de {(((D v B) v (B v B)) > ((B & A) & (~B)))}?
+(((C & D) & (B v D)) & ((A > A) & K)) e consequencia logica de {(Y & ((C v C) v (~A))), (B & (X & (C > A))), ((~K) & ((A > C) v (B v B)))}?
+(~((~A) & (A & B))) e refutavel?
+(~((B v D) v (~D))) e consequencia logica de {(~X), ((~B) v ((B v A) v (D > C)))}?
+(W > ((B v A) v (C v A))) e insatisfativel?
+P e tautologia?
+I e consequencia logica de {(((~C) v (A & B)) v (V v (D & B))), (O > (~(~A))), ((~(C & D)) > (~(B > B))), (((~C) v (~D)) & (G > S))}?
+(((~D) & W) > (V > (C & C))) e tautologia?
+((~(C v A)) v ((B > A) > B)) e insatisfativel?
+(~((A v B) v (A & C))) e satisfativel?
+(((B & D) > C) & (D & (C > B))) e consequencia logica de {(~B)}?
+(~(~(D & A))) e consequencia logica de {((~N) v ((~D) > (B > D)))}?
+H e refutavel?
+(((B > B) > (D v C)) & P) e refutavel?
+(~(~(~A))) e refutavel?
+A e insatisfativel?
+(~(~(C v A))) e refutavel?
+(~((B > B) > (D & B))) e refutavel?
+(~O) e insatisfativel?
+(~((D & D) v (D > D))) e consequencia logica de {(~((A & B) & (~B)))}?
+T e consequencia logica de {(Y v O)}?
+(((B & B) & (B > A)) > ((C v C) & D)) e refutavel?
+(P & ((~A) > C)) e insatisfativel?
+((~(D & D)) v ((A v C) > (D & D))) e consequencia logica de {Y, (((A v B) & (C & B)) & ((~B) v (A & B))), I}?
+(~(~(A v A))) e insatisfativel?
+(~(~(~A))) e insatisfativel?
+(((~B) v (A & A)) v ((D > B) v (D v A))) e refutavel?
+(~((D v D) > (D & C))) e refutavel?
+((~(A v B)) v ((~A) > (C v B))) e refutavel?
+((~(~B)) > (~X)) e consequencia logica de {F, ((~(~A)) v (U > (A > B))), (~(A & (D > B)))}?
+(((D & B) & (B v A)) v ((B v C) > (C & C))) e satisfativel?
+(((D & C) v K) v ((B > C) v (~B))) e insatisfativel?
+Y e tautologia?
+K e satisfativel?
+(((~A) > (B v C)) v ((~C) > (C & B))) e satisfativel?
+(M & ((C & D) & (A & C))) e consequencia logica de {((P v F) & (~(B v D))), N, (((~C) & (D & A)) > ((C & B) > (D > C)))}?
+(((D v C) & (B v B)) v ((D & C) & (A > B))) e consequencia logica de {I, L, (~(G > B))}?
+(B v ((A v C) v (C v A))) e satisfativel?
+(((~A) > (A v C)) > ((A > A) > (D & A))) e tautologia?
+(~(~(~B))) e consequencia logica de {(((B > C) > (~D)) & ((D & D) v (B & B))), (((C v B) > (C & C)) > ((A v D) & (D > C)))}?
+(((B & C) & (C v B)) & ((C v B) v K)) e consequencia logica de {(W v T)}?
+A e satisfativel?
+(~((~B) & (D v A))) e tautologia?
+(((C & A) > P) > (I > (D & B))) e consequencia logica de {F}?
+(((B v C) > H) > (L & (~A))) e satisfativel?
+(((A v C) > (C & B)) > (~(A & B))) e consequencia logica de {(((B v B) & (A & B)) > (~(C > B))), ((Y & (C > D)) v ((D > B) v (C > C))), (((D v C) v (B & B)) > N)}?
+(((B > B) > (D v C)) v O) e consequencia logica de {((~B) v (T & (A & C))), (((B > A) & (~C)) > ((~C) > (~B))), ((~P) > ((A & D) & (A > B))), ((A > (A > B)) v ((A & D) & N))}?
+(((~B) v (~B)) > ((A v D) > D)) e refutavel?
+(X & R) e consequencia logica de {I, (~((A > A) v (D & D))), A, Y, (G v ((B v C) & (A v A)))}?
+(~((C > D) v M)) e tautologia?
+(((~B) & (A > B)) > ((~B) v (~D))) e consequencia logica de {S, (B v (~(B > C))), (Y > A), (~((~B) & (~D)))}?
+(((C > A) v (~D)) & (~(B > D))) e satisfativel?
+(((B & D) & (D v A)) & (~(C > B))) e tautologia?
+((P v N) v B) e refutavel?
+(J > ((D v C) > K)) e insatisfativel?
+(~((~B) > (C & D))) e refutavel?
+(((~B) v (D & A)) & K) e consequencia logica de {(~(~(~B))), (((B & B) > (C > B)) > ((~C) > (C > B))), (~(~(~D)))}?
+A e refutavel?
+(((D > D) & (B > C)) > ((B v B) & (B > B))) e consequencia logica de {(T > (~(A > A))), S, Q}?
+((Q v (C & D)) > ((B & A) v W)) e tautologia?
+J e consequencia logica de {(~(Q v Q)), ((~(D > B)) > ((B & A) > (A > D))), ((~(A > A)) v (W & W)), (~(~J)), (~(G v S))}?
+(((A v A) & (~B)) & (~(~B))) e tautologia?
+((~V) > (D & (A v A))) e satisfativel?
+Y e insatisfativel?
+(E > (~(~D))) e satisfativel?
+(((A > C) v (D v B)) v (F & (C v B))) e refutavel?
+(((C v D) & (C & C)) & (L v C)) e consequencia logica de {(Y > R), ((~(B v C)) & (K v C)), F, (T > (~(B & B)))}?
+((~N) v (~(D & A))) e insatisfativel?
+T e tautologia?
+((~(A & D)) & ((A & B) > (A & D))) e satisfativel?
+(~((D > D) > (C > A))) e tautologia?
+((U v (~D)) & ((A & A) > (B & B))) e satisfativel?
+((~(A v B)) v ((B > B) v (~C))) e insatisfativel?
+(((C > C) > U) & ((C v B) > (C & C))) e consequencia logica de {Y, (~((B > B) > (D & D))), (~W), H}?
+(A > ((D > A) v (D > B))) e refutavel?
+L e consequencia logica de {W}?
+((T v (B > A)) & (~(A & B))) e tautologia?
+(((D > B) v (~D)) v ((~B) > H)) e refutavel?
+((~X) v P) e consequencia logica de {(((B v A) & W) & ((C & D) v (D & D))), (D > (~(B > A))), (((B > C) v U) & (Q > (D v C)))}?
+((T & (D > C)) v (P > (B v B))) e tautologia?
+(Y & ((D v D) v W)) e consequencia logica de {W, (~((~D) > (D > D))), (~(~(B v B))), (((B v A) v (~C)) v (~G)), ((T v (C > D)) v (G & (A > D)))}?
+B e refutavel?
+((~(D & B)) & N) e insatisfativel?
+X e consequencia logica de {B, (((D v D) v (~D)) & (~A)), C, ((~(D > C)) > (~(A > A)))}?
+E e tautologia?
+((~(A v C)) & W) e consequencia logica de {(D > K)}?
+(Y v (A v N)) e consequencia logica de {Q, (((C > A) > (~D)) v (~(A > A))), U, (((C & D) & H) & ((A v B) > (D v D))), (E & C)}?
+(G v ((D & B) & (~B))) e refutavel?
+((D v (~D)) > ((B v D) > (A & C))) e refutavel?
+(~((D > A) & (A & A))) e consequencia logica de {D, (((C > A) & (~D)) > ((C & B) & (D & A))), Y, ((~(B & B)) & (~(~C))), ((N v (C v C)) v (P & M))}?
+((~(~B)) > (~(D > B))) e tautologia?
+(T > ((~D) > (~A))) e consequencia logica de {(E > ((D > B) v (D > B))), ((~I) & ((B v C) > H)), G, R, (((A > A) > (B v C)) v (P v (~D)))}?
+S e refutavel?
+G e insatisfativel?
+(K > ((A > C) > (D > C))) e consequencia logica de {O}?
+(((~B) & (C & A)) v (~(B > C))) e satisfativel?
+(((~B) & (A v A)) v (J v (~B))) e refutavel?
+A e insatisfativel?
+(((~A) > (B > D)) > (N > (B & C))) e satisfativel?
+((~(D & D)) v C) e refutavel?
+((~(B > B)) v ((~C) & (A v A))) e satisfativel?
+(((~A) > (~A)) & (B v (A v A))) e insatisfativel?
+(X > ((A & D) & G)) e refutavel?
+(D v (~Q)) e consequencia logica de {(V > ((D > C) v (D v A)))}?
+(((~C) & (B v B)) & ((B & A) & (B & B))) e insatisfativel?
+(((C > B) > (~A)) > (K & (B > D))) e satisfativel?
+((U & (A & B)) > ((C v D) v Y)) e consequencia logica de {(((D & C) > (D & B)) v (~(A & B)))}?
+(((B v D) v (C v D)) & ((C & D) > (D v B))) e consequencia logica de {(((A > D) > (C v C)) & (J > (D v D))), (((C > D) > G) > ((A > C) & X))}?
+((~X) & (A & Y)) e insatisfativel?
+((~(~C)) v ((B > A) > (B v D))) e consequencia logica de {((~(D > C)) & ((A & B) v (A > D))), ((H > M) v ((~D) > (B > D))), D, (((D v B) v (A & A)) > ((B > B) & (~D)))}?
+(~(C v (B & C))) e refutavel?
+(E v ((A v C) v (C > A))) e insatisfativel?
+(((D v B) v (A v B)) & G) e refutavel?
+(~((C > B) & Y)) e tautologia?
+(~((C & C) > (A & D))) e insatisfativel?
+(((A v A) & (~B)) & ((A v A) v (~C))) e consequencia logica de {(X & (~O)), (((B v A) v (~D)) > ((~A) & (~B))), ((H v (D > C)) v ((~C) & (A v D))), J, U}?
+(T > ((D & C) v (B v B))) e tautologia?
+(Q & S) e refutavel?
+(((B > A) v (B v A)) > ((B & A) > (C v C))) e refutavel?
+U e consequencia logica de {(I v ((C & C) & (A v B))), (((B > B) v O) v ((C > B) & (C > C))), ((W & W) & ((D > A) > (D & C))), ((~(B > C)) > (R > (D & C))), (D > Y)}?
+(L v U) e consequencia logica de {(C & O), (((D > B) v (~D)) & ((~C) & (~D))), K}?
+(W & O) e tautologia?
+((~(C & C)) > ((~C) > (~C))) e tautologia?
+(C > ((B v D) v (A > D))) e satisfativel?
+(~(~(A & B))) e tautologia?
+((~(B > A)) v (Q v (D v D))) e insatisfativel?
+((~(~C)) & J) e insatisfativel?
+(~((D > D) > (B v D))) e tautologia?
+D e consequencia logica de {(((C v A) > (B > C)) & ((D v B) v (D & D))), ((C > (A v C)) > ((D & C) > (B v B))), H, (((C v A) v (~C)) v ((~B) & (D v D)))}?
+(((~D) v (A & D)) v E) e refutavel?
+A e tautologia?
+(((~B) v (C v C)) & F) e refutavel?
+(~K) e insatisfativel?
+(C > ((A > A) v (D & B))) e satisfativel?
+(((B > D) & (D v C)) > V) e satisfativel?
+(~((A > A) > (B & C))) e consequencia logica de {(L > (~(D v B))), S}?
+((Q > (~D)) & (~(C v D))) e consequencia logica de {(W > ((A & C) v (B > D))), (((~B) > (A v B)) & V)}?
+Q e insatisfativel?
+((~P) & C) e satisfativel?
+(D & ((D & C) v U)) e consequencia logica de {P}?
+(((C > A) & O) > ((~A) v (B > B))) e satisfativel?
+(~((A & A) v L)) e satisfativel?
+(~K) e refutavel?
+((~(B & C)) v ((~C) v (C > B))) e insatisfativel?
+T e refutavel?
+(~((A > C) v (D & A))) e insatisfativel?
+(~(~(A & C))) e satisfativel?
+(~I) e consequencia logica de {(((D > A) & E) > (~(B > B)))}?
+N e tautologia?
+(~((D > C) > (D > A))) e insatisfativel?
+(~(B > (A > D))) e refutavel?
+(H > ((D & C) > (D & C))) e consequencia logica de {((~(B v D)) v ((A & C) & D)), ((~(B > C)) v (~(B v C))), (Y & ((A > C) v (C & B))), (((C > B) & (B > D)) v O), (((D > A) > (B & C)) > (P & (B & A)))}?
+(~((A & B) > A)) e consequencia logica de {(((~B) v (D v D)) > S)}?
+(~L) e consequencia logica de {((~(A & C)) v J), (((~A) v (A & C)) & X)}?
+(~((C v B) > (~B))) e tautologia?
+(((C & B) & B) v ((B > B) v (B & A))) e insatisfativel?
+(((A & B) & A) > (~(B v A))) e consequencia logica de {(~Q), ((~(~B)) v (Q & (C > C))), ((E & N) > U), (((C > B) > V) & ((A > C) & (~B))), ((~C) > S)}?
+(~H) e insatisfativel?
+((K & (~A)) v (F > (D & B))) e insatisfativel?
+(~((~A) & (B & A))) e tautologia?
+(((C v A) & (~D)) v (M > (~A))) e refutavel?
+(X v ((A > B) v J)) e insatisfativel?
+(((D & B) > F) v E) e refutavel?
+(~((D & D) > J)) e insatisfativel?
+(~((~B) v (D v C))) e satisfativel?
+((E & A) v ((D v A) v Q)) e insatisfativel?
+(~(~(D v D))) e tautologia?
+N e consequencia logica de {(~A), (~(~(C > C))), O, A}?
+S e tautologia?
+(((C > A) > (~C)) & ((~D) v D)) e satisfativel?
+(((A v A) v (A & D)) > ((A > A) v (~D))) e refutavel?
+(~R) e satisfativel?
+((~(D > C)) > ((~D) v (B > C))) e tautologia?
+P e insatisfativel?
+(~((D & C) & (A v A))) e consequencia logica de {(J v ((C & C) v (A v B))), (U v (T v G)), (((B & C) > (A & A)) v ((B v A) v (D > A)))}?
+(((B > C) > (~C)) v (A > (~B))) e refutavel?
+(((B v D) & (A & C)) & (~P)) e consequencia logica de {(((A & C) > (D > D)) v ((C > B) > (B > A))), U}?
+(((B > D) > (D > C)) & (K > (B v B))) e tautologia?
+(((D > A) > (C & D)) v ((C v A) > (A v C))) e refutavel?
+(~(Q & (B v C))) e tautologia?
+(~((C & A) > (D > C))) e refutavel?
+D e consequencia logica de {(((~C) & T) > ((A v D) v O)), (((D & A) > J) > ((C & C) v (A v C))), (~((~A) > (~B))), R, (~((A > D) > E))}?
+(((C & B) > (B v B)) v (T & (A v C))) e refutavel?
+(Y & E) e consequencia logica de {(((B > D) > E) > ((C & B) > O))}?
+(M > ((D v B) > (C > D))) e refutavel?
+F e insatisfativel?
+((~N) & C) e consequencia logica de {(((B > B) v (D v D)) > ((D v C) & (A > C))), (~((B > D) & (B & A))), (~C), (((C v A) v (B v B)) > S)}?
+(((A & D) & J) & ((C v D) v (~C))) e insatisfativel?
+((~P) v ((A & C) v (C > B))) e tautologia?
+H e refutavel?
+X e satisfativel?
+(~((D > D) & (~B))) e tautologia?
+(~A) e insatisfativel?
+((~(D & C)) & ((A v A) > (D > D))) e tautologia?
+(((B > B) v R) & ((~D) & (C v C))) e consequencia logica de {(((~C) v Q) v (N & (C > D)))}?
+(~(~(A > A))) e tautologia?
+B e consequencia logica de {((~(~B)) & (~(A v A))), ((G v (B > B)) v ((C v A) & (C & B))), ((~(C > D)) > ((~A) v (~D)))}?
+(((~C) & (~C)) > ((A v B) & (~C))) e satisfativel?
+(((D v D) > (C v C)) & ((B > A) v (C & C))) e consequencia logica de {H, (~((C > B) & (C & A))), F, (T > L), (((D v A) & (C & C)) > ((A & C) & A))}?
+(((B & B) & (A v B)) & (~(B > B))) e insatisfativel?
+(~H) e satisfativel?
+(~G) e insatisfativel?
+(I & ((B v C) & (C v A))) e satisfativel?
+(~(S v (D v A))) e insatisfativel?
+(~((B > A) & (C v D))) e insatisfativel?
+(P v ((~D) > (~A))) e refutavel?
+(((~A) v (C v C)) v ((~B) v (~B))) e refutavel?
+(((C v D) v (D v D)) v P) e tautologia?
+((~(A > D)) & (~(A v C))) e refutavel?
+(((C > D) v Q) > E) e insatisfativel?
+((~Q) & P) e insatisfativel?
+((T & (C > B)) v H) e insatisfativel?
+(((A > C) > (D > D)) > (~(~A))) e tautologia?
+(C v ((C & C) v (~B))) e consequencia logica de {(((~C) > V) v ((~A) v (~C))), (((~C) v Q) v ((D > C) > (C > C))), ((D v (D v A)) v T)}?
+(((~A) > (C & D)) > ((C > D) > (A > B))) e satisfativel?
+(K v (~(A & D))) e tautologia?
+(((C > B) v (B v B)) > ((B & A) > H)) e refutavel?
+(M & ((~D) > N)) e tautologia?
+(X v A) e consequencia logica de {((~C) v U), (T & ((~C) > (~B))), ((~(C > B)) > (D > (C > C))), (~(~(D v A)))}?
+(((D v C) > (~A)) v (~(~B))) e tautologia?
+(((D v D) > (A v C)) > ((C & D) > F)) e tautologia?
+((~(D v D)) > (P & (~A))) e tautologia?
+X e refutavel?
+((B > (~A)) & (Q > (A & D))) e insatisfativel?
+(H & ((D v B) & J)) e refutavel?
+(((A > C) > K) & (~(A & D))) e consequencia logica de {(((D v A) v (A v D)) & ((~D) v (D > C)))}?
+((~(A & A)) & (~(B v A))) e refutavel?
+(B > ((A v B) v J)) e refutavel?
+G e insatisfativel?
+O e tautologia?
+(((A & A) & B) > ((~C) > (B & D))) e insatisfativel?
+((N > (C v A)) v ((B & D) > (B v B))) e satisfativel?
+(((D v C) & E) > ((A v A) > (C > D))) e tautologia?
+(((~C) > (D & C)) > I) e satisfativel?
+((~(D & A)) & ((~D) > K)) e tautologia?
+(((C > B) & N) > J) e consequencia logica de {((~(C > A)) > ((A v C) > (~A))), Y}?
+((~(~B)) v G) e satisfativel?
+((C & (B v B)) v ((B > B) v (C > A))) e insatisfativel?
+(P v ((~D) v (D > A))) e refutavel?
+(((~D) v (~B)) v ((~B) > (D & A))) e tautologia?
+Y e refutavel?
+((~(A > A)) & ((A v A) & (C & B))) e refutavel?
+(D & ((A v B) & (A v B))) e satisfativel?
+(((D & D) > (D & A)) v ((A & B) v (C v D))) e tautologia?
+(((B v C) v (D > A)) > U) e satisfativel?
+(M v ((D > C) > W)) e insatisfativel?
+W e satisfativel?
+M e satisfativel?
+((N v (~A)) & (~(D & D))) e consequencia logica de {(~(~(~B))), N, C}?
+J e satisfativel?
+(((A v A) v (~C)) > ((~A) > (C v B))) e consequencia logica de {((~(A & D)) > (~(D & D))), (~T), (~((D v B) & (~D)))}?
+M e consequencia logica de {D, A}?
+(((C v A) > B) > ((B & D) & (D > B))) e refutavel?
+I e insatisfativel?
+(((~D) > (A > C)) > ((~C) v (~C))) e consequencia logica de {(((D & D) > (D & C)) & ((C v C) & (A & D))), D, (~((B v A) > (D & C)))}?
+(((~A) v (~D)) v ((A & A) v X)) e consequencia logica de {(((B v B) > (D & A)) > S), (((~B) v (B & B)) > (~(B v D)))}?
+(~(~(~D))) e consequencia logica de {((~(C & A)) > ((B v C) v (D v C))), L}?
+C e consequencia logica de {P}?
+(~((D > A) > (D > A))) e insatisfativel?
+(((B v C) > (B > A)) v (~(B v C))) e consequencia logica de {((~(A v A)) & (T > (C v C)))}?
+(((A & D) > (~D)) > (~Q)) e consequencia logica de {(((D v C) & (B & D)) v (~(B > C))), (((A > C) & (C v A)) v K), (~((D v C) > (C > C)))}?
+S e consequencia logica de {S, R}?
+(F v (~W)) e refutavel?
+((~(A & D)) > I) e consequencia logica de {(((D & B) v (C & C)) v (~(~D))), (((A v C) & (C & D)) & ((A v D) & A)), (~G)}?
+(((C v B) & (~D)) & (Y v V)) e satisfativel?
+(~((D v D) v (C > D))) e consequencia logica de {((~(D v D)) v O), R}?
+(~B) e insatisfativel?
+F e insatisfativel?
+(((A v C) > (D > D)) > N) e tautologia?
+G e refutavel?
+(((A v D) v (D & C)) v ((D v A) & (~C))) e refutavel?
+M e refutavel?
+(((B v C) v G) > ((~D) > (B > D))) e tautologia?
+(((~C) > (B v D)) v (~(~D))) e satisfativel?
+(S v (~(D > C))) e consequencia logica de {N, (((A > C) v (A & C)) & (~(B & A)))}?
+V e satisfativel?
+H e consequencia logica de {(((~B) > (~B)) & (S & (B > A)))}?
+(((D & B) v (D > D)) & (~(C & C))) e refutavel?
+((~(~A)) v ((B & C) & (B & C))) e consequencia logica de {K, (~T), (~((B > D) v (~A))), J}?
+(~J) e insatisfativel?
+(((~A) > (D & A)) > ((D > C) v (A & A))) e consequencia logica de {(((A & C) > B) & ((D > A) & (D v D))), (K & G)}?
+(((D > A) > (D & B)) > ((B v A) v H)) e refutavel?
+(((D v A) & (C > C)) v ((C & D) v (C & A))) e satisfativel?
+(((B > D) & (~A)) & (~(B v C))) e refutavel?
+(((~B) v (D & C)) & (~(D & D))) e tautologia?
+(((B & D) & S) & (~(~A))) e consequencia logica de {((Y > (C & A)) & (~(B v A))), B, ((G > (D & B)) > ((A > B) > (~B)))}?
+(O > (~(C & B))) e insatisfativel?
+C e tautologia?
+((U & (C > A)) > ((D > D) & (A v D))) e consequencia logica de {((~(C & B)) & ((D & B) v Q)), (~(X & T)), O}?
+((~(B > C)) & D) e satisfativel?
+(~(~(D & A))) e insatisfativel?
+G e tautologia?
+(~(~(A > A))) e refutavel?
+((~(C v C)) & (~O)) e satisfativel?
+(~G) e tautologia?
+((~(~B)) > ((C v B) v (D v C))) e satisfativel?
+Y e insatisfativel?
+S e tautologia?
+((~(C v C)) v H) e satisfativel?
+C e tautologia?
+(((A > A) & (A > A)) > ((A > D) > (A & D))) e satisfativel?
+K e consequencia logica de {(~((~D) & (A v B))), (H & ((C > A) & (~D))), ((B v (D > B)) v ((C > D) v (A v B)))}?
+(((D v C) & (~B)) & (~(D v A))) e refutavel?
+(((A v D) & (C & A)) & M) e satisfativel?
+(D & (~(B v D))) e satisfativel?
+H e tautologia?
+F e refutavel?
+P e tautologia?
+(((C > B) v X) & ((~C) v (~C))) e refutavel?
+((V > (D & C)) v (~Y)) e satisfativel?
+H e satisfativel?
+(((D & D) & (B v C)) > (E & (~A))) e insatisfativel?
+(U v (A > M)) e insatisfativel?
+(~((~D) > (~A))) e insatisfativel?
+(((C & C) v (A & C)) & (Q & Q)) e refutavel?
+((~(~B)) & (W > (D v B))) e tautologia?
+((~(B > C)) > ((A v C) v P)) e refutavel?
+((O & C) & (~(A v B))) e satisfativel?
+((~(~B)) v ((D > A) & M)) e satisfativel?
+(C v R) e consequencia logica de {(~((A > C) & (~D))), B, G, X}?
+(Q & ((~D) v F)) e tautologia?
+(G & R) e satisfativel?
+(N & (E & (~C))) e satisfativel?
+(((~A) & (A v C)) & Y) e insatisfativel?
+(X v ((B & D) & (C > A))) e satisfativel?
+((~(~B)) & U) e satisfativel?
+((~(~A)) v ((~C) v (D v C))) e satisfativel?
+(~(~(A v B))) e satisfativel?
+(V & M) e satisfativel?
+((~(A & D)) > (~(D v D))) e insatisfativel?
+F e satisfativel?
+C e satisfativel?
+(((D > A) > (~B)) & ((C & A) > M)) e tautologia?
+(((A & B) > (A & B)) & ((D & C) v T)) e refutavel?
+(~L) e tautologia?
+((V > (D v C)) > (D & (D > B))) e consequencia logica de {(~(M & (A v C))), (((C v D) & (D > C)) & ((~D) v (D v D))), ((~(B & A)) v (V > (B v A))), O}?
+I e consequencia logica de {(~((~A) > M))}?
+(((~A) v W) & (~(C & B))) e insatisfativel?
+E e satisfativel?
+(~U) e tautologia?
+(((~B) > (B & D)) & Q) e consequencia logica de {C, (((A > D) & (D v C)) & ((A & C) v (B > D))), ((K & W) v (V v (B > C)))}?
+(((A > A) > (B > D)) & (G & (B > D))) e refutavel?
+(((A v D) v (~D)) > X) e consequencia logica de {(T v (~(~B)))}?
+(~((C > D) > (~C))) e satisfativel?
+(~((B > C) & K)) e consequencia logica de {((~(~C)) v (~(D & A))), (((C v C) v (A v C)) & C), (((C & A) & (~A)) > W), ((~(C > B)) & ((A & A) v (~C)))}?
+(~H) e consequencia logica de {(~((C > D) > (B > A))), (((D v A) v (~D)) v V), ((~(D > D)) v ((D > C) & (C > B))), ((~(A > A)) > (~U))}?
+(Q v ((~D) & (A v A))) e insatisfativel?
+(~((~B) & O)) e insatisfativel?
+((~(~A)) & W) e consequencia logica de {(((D v D) & (C > C)) & ((D & A) > A)), (((D & A) & (~A)) > (~(C > D)))}?
+(((~A) v C) & ((B > C) v (~C))) e insatisfativel?
+(((C > C) & (D > D)) & ((D > C) & (C v D))) e tautologia?
+(O v ((A & D) & (B > A))) e satisfativel?
+(((~D) v (B > D)) > A) e insatisfativel?
+((~(~B)) v ((A > B) v (D > C))) e consequencia logica de {(((B > C) v (~D)) > ((~C) > (~D))), (~(C & (B > A)))}?
+(~(G v (B v B))) e tautologia?
+((~(C v A)) & (~(A > C))) e consequencia logica de {(((C & A) & (D > A)) & (~U))}?
+(((C & C) & (A v B)) v (~(B v D))) e refutavel?
+((~(B & D)) v ((C > A) v (~D))) e satisfativel?
+(M & ((D > A) v S)) e insatisfativel?
+(((~D) > V) v D) e satisfativel?
+((H v (~B)) > W) e tautologia?
+Y e consequencia logica de {G, (~R), (((C > C) & (~D)) v (W & (C > A)))}?
+F e consequencia logica de {(((D > A) & (C > B)) v ((C > A) & (D & C))), (((D & B) > F) & ((D v B) > (D v D))), H, (((C > B) v (D & C)) v ((~A) & (~B)))}?
+(J v ((~D) v (~A))) e consequencia logica de {G}?
+Q e consequencia logica de {((~(~C)) & (~(~A))), (((A & B) & (A & C)) & (~(D > C)))}?
+((~(~D)) v A) e insatisfativel?
+(~(~P)) e refutavel?
+((~(C & D)) & B) e satisfativel?
+(V v (M & A)) e refutavel?
+(((D v D) & (A & D)) v (Q & (D & C))) e insatisfativel?
+(~(K & W)) e tautologia?
+X e refutavel?
+(((C v B) > (C & D)) v ((A & B) & (C > C))) e consequencia logica de {(((~B) v (A > B)) v (H > (B & D))), (S > ((~A) v (C v C))), Q}?
+(~((A > D) v T)) e tautologia?
+(~(S & (D > C))) e satisfativel?
+(((C > A) & (B v C)) v (R v (C & A))) e consequencia logica de {((P v (C > D)) & W)}?
+(((A & C) v (C v D)) v (~(C & D))) e satisfativel?
+(((D > A) & (C v C)) > (~(C & A))) e insatisfativel?
+I e refutavel?
+(~((B v C) v (C > B))) e tautologia?
+(~((B > A) & (B & B))) e tautologia?
+(~((D > C) & B)) e consequencia logica de {(((A > D) > (C > C)) v ((A v C) > (~C))), (((A v D) & (C & C)) v ((B > D) & (C > D)))}?
+(((A v C) > W) v ((~C) v (A > D))) e satisfativel?
+(~K) e tautologia?
+(((A > A) & (B v A)) & (N v (~C))) e satisfativel?
+V e insatisfativel?
+Q e insatisfativel?
+((~(D & C)) v ((C > B) & (A & C))) e refutavel?
+(~M) e refutavel?
+(R v (~(D v A))) e satisfativel?
+(((~A) & (C & B)) & ((A v D) v (B > C))) e satisfativel?
+(C > ((B v D) v (~C))) e consequencia logica de {(Y v ((B v D) v (B > B))), (((A v A) v (C > D)) & ((~C) v P)), (((~C) & C) & M), (((~D) v (A > A)) > ((~C) & (C > B))), H}?
+(~((~C) & (~B))) e satisfativel?
+((~(A v A)) & (~(A & A))) e refutavel?
+(~((C v D) & (C > A))) e tautologia?
